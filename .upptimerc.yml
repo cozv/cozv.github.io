@@ -16,11 +16,10 @@ status-website:
   name: COZV
   introTitle: "**cozv.github.io** is the uptime monitor and status page for [COZV.com](https://cozv.com)"
   introMessage: The status page uses GitHub Action to fetch **real-time** data from [COZV.com](https://cozv.com).
+  favicon: https://cozv.com/
+  theme: dark
   navbar:
     - title: Status
       href: /
     - title: COZV.com
-      href: https://www.cozv.com
-
-status-website:
-  theme: dark
+      href: https://www.cozv.com/safari-pinned-tab.svg

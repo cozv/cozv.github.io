@@ -1,20 +1,20 @@
 [
   {
-    "name": "COZV",
+    "name": "cozvUptime",
     "url": "https://www.cozv.com",
     "icon": "https://www.cozv.com/favicon.ico",
-    "slug": "cozv",
+    "slug": "cozv-uptime",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 158,
-    "timeWeek": 158,
-    "timeMonth": 158,
-    "timeYear": 158,
+    "time": 227,
+    "timeDay": 227,
+    "timeWeek": 227,
+    "timeMonth": 227,
+    "timeYear": 227,
     "dailyMinutesDown": {}
   }
 ]

@@ -13,11 +13,10 @@ status-website:
   # cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/48952628
-  name: COZV
-  introTitle: "**cozv.github.io** is the uptime monitor and status page for [COZV.com](https://cozv.com)"
-  introMessage: The status page uses GitHub Action to fetch **real-time** data from [COZV.com](https://cozv.com).
+  name: cozvUptime
+  introTitle: "The official uptime monitor and status page for [COZV.com](https://cozv.com)"
+  introMessage: using GitHub Action to fetch **real-time** data from [COZV.com](https://cozv.com).
   favicon: https://cozv.com/
-  theme: dark
   navbar:
     - title: Status
       href: /
